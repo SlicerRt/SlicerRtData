@@ -1,0 +1,5 @@
+Downloaded from http://forge.abcd.harvard.edu/gf/project/plastimatch/frs/?action=FrsReleaseBrowse&frs_package_id=93 on Jan 20, 2012.
+
+This DICOM-RT sample was created with Pinnacle3, Version: 8.2g, 
+and donated by Charles Chang-Yu Wang.
+
