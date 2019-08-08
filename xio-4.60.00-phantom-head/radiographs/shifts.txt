@@ -1,2 +1,0 @@
-Post Shift 2: +1 mm lng +2 mm lat +3 mm Vrt  
-Post Shift 3: -3 mm lng -2 mm lat -1 mm vrt

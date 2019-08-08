@@ -1,1 +1,0 @@
-From Andriy Fedorov. Contains a structure set with a tilted plane.

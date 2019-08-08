@@ -1,1 +1,0 @@
-4D-CT dataset from Creatis: http://www.creatis.insa-lyon.fr/rio/popi-model

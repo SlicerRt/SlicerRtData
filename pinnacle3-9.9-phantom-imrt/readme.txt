@@ -1,1 +1,0 @@
-Contains a simple IMRT plan using the same 4D phantom. The CT images were acquired using GE Discovery CT scanner. TPS is Pinnacle station.
