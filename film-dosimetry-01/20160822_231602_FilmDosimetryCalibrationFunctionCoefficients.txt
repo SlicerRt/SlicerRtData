@@ -1,0 +1,6 @@
+# Film dosimetry calibration function coefficients (2016.08.22. 23:16:02)
+# Coefficients in order: A, B, C, N
+-49.283821319
+181.425638601
+239.872262046
+2.79
