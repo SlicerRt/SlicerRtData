@@ -1,0 +1,26 @@
+# Fiducial List file C:/Users/Nadya/Desktop/synthetic_img/square_moving.fcsv
+# version = 2
+# name = square_moving.fcsv1
+# numPoints = 8
+# symbolScale = 5
+# symbolType = 13
+# visibility = 1
+# textScale = 0
+# color = 0.4,1,1
+# selectedColor = 0.105882,0.980392,1
+# opacity = 1
+# ambient = 0
+# diffuse = 1
+# specular = 0
+# power = 1
+# locked = 0
+# numberingScheme = 0
+# columns = label,x,y,z,sel,vis
+moving-P,-89.2117,-88.4459,128,1,1
+moving-P1,-127.883,-79.2568,128,1,1
+moving-P2,-165.405,-88.4459,128,1,1
+moving-P3,-79.6396,-127.5,128,1,1
+moving-P4,-174.977,-127.883,128,1,1
+moving-P5,-88.4459,-165.405,128,1,1
+moving-P6,-127.883,-174.977,128,1,1
+moving-P7,-165.788,-165.405,128,1,1

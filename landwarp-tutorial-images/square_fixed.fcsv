@@ -1,0 +1,27 @@
+# Fiducial List file C:/Users/Nadya/Desktop/synthetic_img/square_fixed.fcsv
+# version = 2
+# name = square_fixed.fcsv1
+# numPoints = 9
+# symbolScale = 5
+# symbolType = 13
+# visibility = 1
+# textScale = 0
+# color = 0.4,1,1
+# selectedColor = 1,0.054902,0.941176
+# opacity = 1
+# ambient = 0
+# diffuse = 1
+# specular = 0
+# power = 1
+# locked = 0
+# numberingScheme = 0
+# columns = label,x,y,z,sel,vis
+fixed-P1,-108.356,-107.59,128,1,1
+fixed-P2,-127.883,-107.59,128,1,1
+fixed-P3,-147.793,-107.973,128,1,1
+fixed-P4,-107.59,-127.5,128,1,1
+fixed-P5,-148.176,-127.883,128,1,1
+fixed-P6,-107.59,-147.793,128,1,1
+fixed-P7,-128.266,-148.176,128,1,1
+fixed-P8,-147.793,-147.793,128,1,1
+fixed-P9,-148.176,-148.176,128,1,1
